@@ -1,0 +1,190 @@
+FUNCTIONS:
+
+10. Write a Python function to remove duplicate elements from a list.
+12. Write a Python program to find the second largest element in a list.
+13. Write a Python program to find the greatest common divisor (GCD) of two numbers.
+14. Write a Python program to find the LCM of two numbers.
+15. Write a Python program to find the square root of a number using the Newton-Raphson method.
+16. Write a Python program to find the sum of the first N natural numbers.
+17. Write a Python program to find the sum of digits in a number.
+18. Write a Python program to check if a number is a palindrome or not.
+19. Write a Python program to find the factorial of a number using a loop.
+20. Write a Python program to print the multiplication table of a given number.
+
+DATA TYPES:
+
+21. Write a Python program to convert a string to an integer.
+22. Write a Python program to convert a string to a float.
+23. Write a Python program to convert a list to a tuple.
+24. Write a Python program to convert a tuple to a list.
+25. Write a Python program to find the length of a string.
+26. Write a Python program to concatenate two strings.
+27. Write a Python program to find the intersection of two sets.
+28. Write a Python program to find the union of two sets.
+29. Write a Python program to sort a list in descending order.
+30. Write a Python program to remove all occurrences of a specified element from a list.
+
+OPERATIONAL STATEMENTS:
+
+40. Write a Python program to find the maximum of two numbers using the ternary operator.
+42. Write a Python program to calculate the area of a triangle.
+43. Write a Python program to calculate the circumference of a circle.
+44. Write a Python program to check if a string is a palindrome or not.
+46. Write a Python program to find the LCM of two numbers.
+47. Write a Python program to find the GCD of two numbers.
+48. Write a Python program to reverse a string.
+49. Write a Python program to sort a list in ascending order.
+50. Write a Python program to remove duplicate elements from a list.
+
+CONDITIONAL STATEMENTS:
+51. Write a Python program to check if a number is positive, negative or zero.
+52. Write a Python program to check if a number is even or odd.
+53. Write a Python program to check if a year is a leap year or not.
+54. Write a Python program to find the largest of three numbers.
+55. Write a Python program to check if a given string is a palindrome or not.
+56. Write a Python program to find the smallest of three numbers.
+57. Write a Python program to check if a given number is prime or not.
+58. Write a Python program to check if a given number is divisible by 3 or 5.
+59. Write a Python program to check if a given character is a vowel or consonant.
+60. Write a Python program to check if a given string is a valid email address.
+61. Write a Python program to find the sum of all even numbers in a list.
+62. Write a Python program to find the sum of all odd numbers in a list.
+63. Write a Python program to find the average of a list of numbers.
+64. Write a Python program to check if a given number is a perfect square or not.
+65. Write a Python program to find the largest prime number less than a given number.
+66. Write a Python program to find the roots of a quadratic equation.
+67. Write a Python program to find the greatest common divisor (GCD) of three numbers.
+68. Write a Python program to check if a given string is a valid password.
+69. Write a Python program to find the area of a circle, given the radius.
+70. Write a Python program to check if a given number is a palindrome or not using recursion
+
+LOOPING STATEMENTS:
+
+71. Write a Python program to print the numbers from 1 to 10 using a for loop.
+72. Write a Python program to print the multiplication table of a given number using a for loop.
+73. Write a Python program to find the sum of all the numbers in a list using a for loop.
+74. Write a Python program to print the Fibonacci sequence up to a given number using a while loop.
+75. Write a Python program to find the factorial of a number using a while loop.
+76. Write a Python program to print all the prime numbers within a given range using a for loop.
+77. Write a Python program to check if a given number is a palindrome or not using a while loop.
+78. Write a Python program to reverse a string using a for loop.
+79. Write a Python program to find the sum of all even numbers between two given numbers using a while loop.
+80. Write a Python program to count the number of vowels in a given string using a for loop.
+81. Write a Python program to find the factorial of a number using a for loop.
+82. Write a Python program to find the GCD of two numbers using a for loop.
+83. Write a Python program to generate a multiplication table using nested loops.
+84. Write a Python program to check if a given number is prime or not using a for loop.
+85. Write a Python program to find the sum of all odd numbers between two given numbers using a while loop.
+86. Write a Python program to print the sum of digits of a given number using a while loop.
+87. Write a Python program to check if a given string is a palindrome or not using a for loop.
+88. Write a Python program to find the first n Fibonacci numbers using a for loop.
+89. Write a Python program to find the LCM of two numbers using a while loop.
+90. Write a Python program to generate a Pascal's triangle using nested loops.
+
+TYPES OF FUNCTIONS:
+
+ 91. Write a Python program to find the area of a circle using a user-defined function.
+ 92. Write a Python program to check if a given number is a perfect number using a user-defined function.
+ 93. Write a Python program to check if a given string is a valid password using a lambda function.
+ 94. Write a Python program to sort a list of numbers in ascending order using a built-in function.
+ 95. Write a Python program to find the sum of two numbers using a recursive function.
+ 96. Write a Python program to find the LCM of two numbers using a built-in function.
+ 97. Write a Python program to count the number of vowels in a given string using a map function.
+ 98. Write a Python program to check if a given number is a prime number using a filter function.
+ 99. Write a Python program to find the length of the longest word in a given sentence using a reduce function.
+ 100. Write a Python program to concatenate two lists using a generator function.
+
+
+ STRINGS:
+
+101. Write a Python program to count the number of occurrences of a character in a given string.
+102. Write a Python program to reverse a string using slicing.
+103. Write a Python program to check if a given string is a palindrome or not.
+104. Write a Python program to capitalize the first letter of each word in a given string.
+105. Write a Python program to find the length of the longest word in a given sentence.
+106. Write a Python program to concatenate two strings without using the '+' operator.  
+107. Write a Python program to remove all the vowels from a given string.
+108. Write a Python program to check if a given string contains only digits.
+109. Write a Python program to find the most frequent word in a given sentence.
+110. Write a Python program to replace all occurrences of a given word in a string with another word.
+111. Write a Python program to find the first non-repeating character in a given string.
+112. Write a Python program to check if a given string is an anagram of another string.
+113. Write a Python program to find the second most frequent character in a given string.
+114. Write a Python program to find the common characters between two given strings.
+115. Write a Python program to remove all whitespace characters from a given string.
+116. Write a Python program to find the index of a given substring in a given string.
+117. Write a Python program to check if a given string is a valid email address.
+118. Write a Python program to find the largest palindrome substring in a given string.
+119. Write a Python program to find the frequency of all characters in a given string.
+120. Write a Python program to find the number of words in a given string.
+
+LISTS:
+
+121. Write a Python program to find the sum of all elements in a given list.
+122. Write a Python program to find the second largest number in a given list.
+123. Write a Python program to find the smallest number in a given list.
+124. Write a Python program to remove duplicates from a given list.
+125. Write a Python program to reverse a given list.
+126. Write a Python program to find the index of a given element in a given list.
+127. Write a Python program to find the frequency of all elements in a given list. 
+128. Write a Python program to sort a given list in ascending order.
+129. Write a Python program to shuffle a given list.
+130. Write a Python program to concatenate two lists.
+131. Write a Python program to find the maximum and minimum elements in a given list.
+132. Write a Python program to remove all even numbers from a given list.
+133. Write a Python program to merge two sorted lists into a single sorted list.
+134. Write a Python program to find the largest subsequence sum in a given list of integers.
+135. Write a Python program to find the first n Fibonacci numbers and store them in a list.
+136. Write a Python program to find the common elements between two lists.
+137. Write a Python program to find the union of two lists.
+138. Write a Python program to find the intersection of two lists.
+139. Write a Python program to find the difference between two lists.
+140. Write a Python program to find the kth smallest element in a given list.
+
+
+TUPLES AND DICTIONARIES:
+
+141. Write a Python program to find the length of a given tuple.
+142. Write a Python program to reverse a given tuple.
+143. Write a Python program to find the maximum and minimum elements in a given tuple.
+144. Write a Python program to concatenate two tuples.
+145. Write a Python program to convert a tuple to a list.
+146. Write a Python program to find the index of a given element in a given tuple.
+147. Write a Python program to check if a given element exists in a given tuple.
+148. Write a Python program to convert a list of tuples to a list of lists.
+149. Write a Python program to sort a given tuple in ascending order.
+150. Write a Python program to find the sum of all elements in a given tuple.
+151. Write a Python program to find the length of a given dictionary.
+152. Write a Python program to concatenate two dictionaries.
+153. Write a Python program to check if a given key exists in a given dictionary.
+154. Write a Python program to check if a given value exists in a given dictionary.
+155. Write a Python program to remove a given key from a given dictionary.
+156. Write a Python program to find the maximum and minimum values in a given dictionary.
+157. Write a Python program to find the keys with the maximum and minimum values in a given dictionary.
+158. Write a Python program to find the frequency of all elements in a given dictionary.
+159. Write a Python program to sort a given dictionary by its values.
+160. Write a Python program to convert a dictionary to a list of tuples.
+
+
+FILES:
+
+161. Write a Python program to read a file and display its contents on the screen.
+162. Write a Python program to count the number of lines in a file.
+163. Write a Python program to count the number of words in a file.
+164. Write a Python program to count the number of characters in a file.
+165. Write a Python program to copy the contents of one file to another.
+166. Write a Python program to write a list of strings to a file.
+
+
+EXCEPTION HANDLING:
+
+171. Write a Python program to handle a ZeroDivisionError exception.
+172. Write a Python program to handle an IndexError exception.
+173. Write a Python program to handle a TypeError exception.
+174. Write a Python program to handle a ValueError exception.
+175. Write a Python program to handle a FileNotFoundError exception.
+176. Write a Python program to handle a KeyError exception.
+177. Write a Python program to handle a NameError exception.
+178. Write a Python program to handle multiple exceptions using a single except block.
+179. Write a Python program to raise a custom exception.
+
